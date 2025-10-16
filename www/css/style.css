@@ -74,6 +74,10 @@
         font-family: Times;
         border-radius:20px;
     }
+
+    #btnA{
+        background-color: yellow;
+    }
     
     input[type=number] {text-align: right;}
 
